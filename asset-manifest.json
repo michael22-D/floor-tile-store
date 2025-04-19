@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/floor-tile-store/static/css/main.4865bd05.css",
-    "main.js": "/floor-tile-store/static/js/main.a802c6c2.js",
+    "main.js": "/floor-tile-store/static/js/main.845c4cc9.js",
     "static/js/453.0ac6c3ea.chunk.js": "/floor-tile-store/static/js/453.0ac6c3ea.chunk.js",
     "index.html": "/floor-tile-store/index.html",
     "main.4865bd05.css.map": "/floor-tile-store/static/css/main.4865bd05.css.map",
-    "main.a802c6c2.js.map": "/floor-tile-store/static/js/main.a802c6c2.js.map",
+    "main.845c4cc9.js.map": "/floor-tile-store/static/js/main.845c4cc9.js.map",
     "453.0ac6c3ea.chunk.js.map": "/floor-tile-store/static/js/453.0ac6c3ea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4865bd05.css",
-    "static/js/main.a802c6c2.js"
+    "static/js/main.845c4cc9.js"
   ]
 }
